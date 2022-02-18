@@ -11,5 +11,5 @@ if bit == '64bit':
 elif bit == '32bit':
     from malik import reg
     reg()
-else:print("Seding Update Script.....");time.sleep(1);os.popen("cd $HOME/malik;git pull;ok.py");os.popen("cd $HOME/malik;git pull; python2 ok.py");exit()
+
   
