@@ -2,7 +2,8 @@ try:
    import requests
 
 except:
-  
+    malik.os.system('pip2 install requests')
+
 
 import requests
 
